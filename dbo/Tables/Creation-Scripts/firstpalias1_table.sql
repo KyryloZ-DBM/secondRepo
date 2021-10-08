@@ -1,0 +1,1 @@
+CREATE TABLE [dbo].[firstpalias1_table](	  [col1] NCHAR(10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL	, [qqq] NCHAR(10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL	, [rtytry] NCHAR(10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL)GO
