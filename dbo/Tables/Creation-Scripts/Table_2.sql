@@ -1,9 +1,1 @@
-CREATE TABLE [dbo].[Table_2] (
-    [col1]       NCHAR (10) NULL,
-    [col2remane] NCHAR (10) NULL,
-    [addcol3]    NCHAR (10) NULL
-);
-
-
-GO
-
+CREATE TABLE [dbo].[Table_2](	  [test2] NCHAR(10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL)GO
