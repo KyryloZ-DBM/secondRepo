@@ -11,7 +11,6 @@ CREATE TABLE [dbo].[Table_8](
 	[90-] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[j] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[kkk] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-	[a] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[798] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[yu] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[u] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
@@ -29,6 +28,11 @@ CREATE TABLE [dbo].[Table_8](
 	[8] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[i7] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[9m8o] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[k] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[gf] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[fd] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[s] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[a] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[890] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[,p.-[] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL
 )
