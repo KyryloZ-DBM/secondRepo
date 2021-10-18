@@ -15,8 +15,6 @@ CREATE TABLE [dbo].[Table_8](
 	[798] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[yu] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[u] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-	[yui] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-	[o] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[ip] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[uuu] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[9t] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
